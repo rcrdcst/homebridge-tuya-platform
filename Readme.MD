@@ -1,7 +1,7 @@
  # homebridge-tuya-platform
  >Homebridge plugin for IoT devices that use Tuya Smart's platform, allowing them to be exposed to Apple's HomeKit.
  >>This plugin is based off the original [repo here](https://github.com/AMoo-Miki/homebridge-tuya-lan)
- >>> You are currently viewing the development branch, the most stable changes will be made here.
+ >>> You are currently viewing the experimental branch, untested changes are published here.
 
 
 ## Installation
